@@ -211,7 +211,7 @@ html, body {
 /* HERO
 ================================================== */
 .hero { 
-    background: url(../img/hero.jpg) no-repeat center / cover; 
+    background: url(../img/hero.jpg) no-repeat center /*/ cover*/; 
     height: 100%;
     width: 100%;
     min-height: 700px;
@@ -224,7 +224,7 @@ html, body {
 
 .hero .col-md-6:first-child {
     position: absolute;
-    top: 35%;
+    top: 65%;
     left: 0;
     transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
@@ -254,7 +254,8 @@ html, body {
 } 
 
 .hero img {
-    height: 600px;
+    height: 350px;
+    margin-bottom: 130px;
 }
 
 /* SITEMAIN
