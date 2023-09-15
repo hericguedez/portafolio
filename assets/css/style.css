@@ -145,7 +145,7 @@ html, body {
 .img-res {
     display: block;
     width: 100vw;
-    height: 100vh;
+    height: 78vh;
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
@@ -451,7 +451,7 @@ html, body {
 .modal-header {
     position: relative;
     padding: 0;
-    height: 500px;
+    /* height: 500px;*/
 }
 
 .modal-header .close {
