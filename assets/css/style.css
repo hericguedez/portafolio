@@ -145,7 +145,7 @@ html, body {
 .img-res {
     display: block;
     width: 100vw;
-    height: 78vh;
+    height: 48vh;
     max-width: 100%;
     max-height: 100%;
     object-fit: cover;
