@@ -283,6 +283,7 @@ html, body {
 
 .site-section p {
     margin-bottom: 35px;
+    text-align: left;
 }
 
 /* Section: Skills */
@@ -356,6 +357,7 @@ html, body {
 .service p {
     color: #000;
     margin-bottom: 0;
+    text-align: left;
 }
 
 /* Section: Portfolio */
@@ -513,6 +515,7 @@ html, body {
     color: #fff;
     margin: 0;
     line-height: 0.8;
+    text-align: center;
 }
 
 /* Section: Form*/
